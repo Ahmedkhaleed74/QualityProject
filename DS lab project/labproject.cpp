@@ -5,7 +5,7 @@ using namespace std;
 class mid
 {
 public:
-    int id2_med;
+    int id_med;
     mid* pnext;
 };
 class clistMID
