@@ -505,8 +505,8 @@ int main()
     string y;
     int custid;
     string cust_name;
-    string day[2];
-    string month[2];
+    string day[5];
+    string month[5];
     string year[4];
     filemed.open("med.txt");
     filecust.open("cust.txt");
